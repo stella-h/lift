@@ -31,6 +31,7 @@ ws.onmessage = function(event) {
 
 
 var countTimes = 30;
+// number according to training_1
 
 var timer = setInterval(function() {
     ws.send(JSON.stringify({
