@@ -1,4 +1,4 @@
-# from lift
+# lift
 http://codelift.org/docs
 
 ## requires ws
